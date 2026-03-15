@@ -1,6 +1,5 @@
 # AtonementTracker
-
-A high-performance icon tracker for Discipline Priests in World of Warcraft: Midnight.
+A high-performance icon Atonement tracker for Discipline Priests in World of Warcraft: Midnight.
 
 ## Features
 - **Taint-Safe Logic:** Specifically designed to avoid UI errors in instances and raids.
