@@ -1,6 +1,8 @@
 # AtonementTracker  
+
+A high-performance, taint-safe icon tracker for Discipline Priests in World of Warcraft: Midnight.  
+
 **Version 1.0.4**  
-A high-performance, taint-safe icon tracker for Discipline Priests in World of Warcraft: Midnight.
 
 ## Features
 - **Taint-Safe Logic:** Specifically designed to avoid the "Secret Number" crash and UI errors in instances and raids using manual aura looping and pcall protection.
