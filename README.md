@@ -1,5 +1,5 @@
 # AtonementTracker  
-**Version 1.0.4**
+**Version 1.0.4**  
 A high-performance, taint-safe icon tracker for Discipline Priests in World of Warcraft: Midnight.
 
 ## Features
