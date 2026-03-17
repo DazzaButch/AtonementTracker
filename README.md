@@ -1,4 +1,4 @@
-# AtonementTracker  
+# Atonements-Tracker  
 
 A high-performance, taint-safe icon tracker for Discipline Priests in World of Warcraft: Midnight.  
 
