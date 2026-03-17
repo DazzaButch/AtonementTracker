@@ -1,5 +1,5 @@
 ## Interface: 120005
-## Version: 1.1.0
+## Version: 1.1.1
 ## Title: Atonements-Tracker
 ## Notes: Lightweight, taint-safe icon to track Atonement duration and active applications.
 ## Author: Anlin@Lightbringer EU
