@@ -2,6 +2,9 @@
 
 A high-performance, taint-safe icon tracker for Discipline Priests in World of Warcraft: Midnight.  
 
+**Version 1.1.1**
+- **Code Change:** Code and name changes to match CurseForge
+
 **Version 1.1.0**  
 
 ## Features
