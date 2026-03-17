@@ -1,11 +1,11 @@
-## Interface: 110007, 120000
+## Interface: 120005
 ## Version: 1.1.0
-## Title: Atonement Tracker
+## Title: Atonements-Tracker
 ## Notes: Lightweight, taint-safe icon to track Atonement duration and active applications.
 ## Author: Anlin@Lightbringer EU
 ## IconTexture: Interface\Icons\spell_holy_atonement
-## X-Website: https://github.com/DazzaButch/AtonementTracker
+## X-Website: https://github.com/DazzaButch/Atonements-Tracker
 ## DefaultState: enabled
 ## SavedVariables: AtonementTrackerDB
 
-AtonementTracker.lua
+Atonements-Tracker.lua
