@@ -1,6 +1,10 @@
 # Atonements-Tracker  
 
-A high-performance, taint-safe icon tracker for Discipline Priests in World of Warcraft: Midnight.  
+A high-performance, taint-safe icon tracker for Discipline Priests in World of Warcraft: Midnight. 
+
+**Version 1.1.3**
+- **Added:** Added a slider to adjust the X & Y axis of the center text..
+- **Added:** Colour to the timer text.
 
 **Version 1.1.2**
 - **Dark Overlay:** Added a slider to adjust icon darkness for better text contrast.
